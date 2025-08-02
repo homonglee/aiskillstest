@@ -1,0 +1,5 @@
+{
+  "name": "AISkillsTest",
+  "description": "An AI-powered system to assess a user's AI literacy through a randomized 10-question multiple-choice quiz. It provides real-time feedback, classifies skill level, and offers an admin dashboard for analyzing aggregated user data.",
+  "requestFramePermissions": []
+}
